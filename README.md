@@ -1,2 +1,7 @@
-# CSE-122Fall-2023
-this is an oop lab repository
+Name: Baizid Biswas
+
+ID: 22235103085
+
+Intake: 51
+
+Section: v02
